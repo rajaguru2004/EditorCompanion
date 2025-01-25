@@ -14,17 +14,7 @@ A powerful app built with Flutter that integrates AI chatbots, image generation,
 
 ---
 
-## 📦 APKs:
 
-- **Global APK:**  
-  [Download Global APK](https://github.com/HarshAndroid/ai_assistant/blob/master/sample%20apk/ai_assistant_12_07_2024_global.apk)  
-  *(Supports all devices)*
-
-- **ARM APK:**  
-  [Download ARM APK](https://github.com/HarshAndroid/ai_assistant/blob/master/sample%20apk/ai_assistant_12_07_2024_armv7.apk)  
-  *(Supports ARM v7 and v8 devices)*
-
----
 
 ## 📸 Screenshots:
 
